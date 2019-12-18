@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+.c0066cc, .c0066cc a, .c0066cc a:visited, .c0066cc a:hover {color:#0066CC !important;}
+
+/* 头部 */
+.header {margin:15px 30px 0px; color:#0066CC; font-size:24px;}
+
+/* 内容 */
+.wrapper {margin:20px 30px 0px;}
+
+
+/* 尾部 */
+.footer {margin:30px 30px; padding-top:10px;}
